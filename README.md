@@ -33,3 +33,7 @@
     <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SouzaJ10&layout=compact&theme=tokyonight&include_all_commits=true" /></td>
   </tr>
 </table>
+
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SouzaJ10&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true">
+            
