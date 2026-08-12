@@ -35,7 +35,6 @@
         src="https://souza-j10-github-stats.vercel.app/api?username=SouzaJ10&show_icons=true&theme=tokyonight&include_all_commits=true"
       />
     </td>
-
     <td>
       <img
         height="200em"
