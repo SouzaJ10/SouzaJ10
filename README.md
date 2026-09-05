@@ -29,16 +29,13 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" height="50" alt="C" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" height="50" alt="React" />
   <img width="8" />
 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" height="50" alt="C++" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="50" alt="TypeScript" />
   <img width="8" />
 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="50" alt="Java" />
-  <img width="8" />
-
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" height="50" alt="PowerShell" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="50" alt="JavaScript" />
   <img width="8" />
 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" height="50" alt="HTML" />
@@ -47,17 +44,54 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" height="50" alt="CSS" />
   <img width="8" />
 
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="50" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg" height="50" alt="Supabase" />
+  <img width="8" />
+
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" height="50" alt="PostgreSQL" />
+  <img width="8" />
+
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="50" alt="MySQL" />
   <img width="8" />
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" height="50" alt="Git" />
   <img width="8" />
 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" height="50" alt="Arduino" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="50" alt="Java" />
   <img width="8" />
 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" height="50" alt="Raspberry Pi" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" height="50" alt="C" />
+  <img width="8" />
+
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" height="50" alt="C++" />
 </p>
+
+---
+
+## 🚀 Projeto em Destaque
+
+<div align="center">
+
+### AppDashboard
+
+<p>
+  Dashboard desenvolvido para visualização e organização de dados financeiros,
+  com foco em clareza, acompanhamento de informações e experiência do usuário.
+</p>
+
+<p>
+  <strong>React • TypeScript • Supabase</strong>
+</p>
+
+<p>
+  <a href="https://github.com/SouzaJ10/AppDashboard">
+    <img
+      src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Ver Repositório"
+    />
+  </a>
+</p>
+
+</div>
 
 ---
 
