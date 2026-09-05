@@ -96,7 +96,7 @@
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Minhas Contribuições
 
 <p align="center">
   <img
