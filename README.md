@@ -100,7 +100,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/SouzaJ10/SouzaJ10/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/SouzaJ10/SouzaJ10/gh-pages/github-contribution-grid-snake-dark.svg"
     alt="Snake animation"
   />
 </p>
