@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Gabriel+%F0%9F%91%8B;Front-end+Developer;React+%7C+TypeScript+%7C+JavaScript;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Gabriel+%F0%9F%91%8B;Desenvolvedor+Front-end+em+evolu%C3%A7%C3%A3o;React+%7C+TypeScript+%7C+JavaScript;Sempre+aprendendo+e+construindo+%F0%9F%9A%80"
     alt="Typing SVG"
   />
 </p>
@@ -19,10 +19,10 @@
 
 ## 👨‍💻 Sobre mim
 
-- 💻 Desenvolvedor em evolução
-- 🎯 Foco em Front-end
-- 🚀 Sempre buscando aprender novas tecnologias
-- 🧠 Interesse em desenvolvimento web, software e boas práticas
+- 💻 Desenvolvedor em constante evolução
+- 🎯 Foco atual em Front-end
+- 🚀 Interesse em aplicações web, arquitetura e boas práticas
+- 🧠 Sempre buscando aprender novas tecnologias e melhorar meus projetos
 
 ---
 
@@ -108,5 +108,5 @@
 ---
 
 <p align="center">
-  Obrigado pela visita! 🚀
+  <sub>Obrigado pela visita! 🚀</sub>
 </p>
