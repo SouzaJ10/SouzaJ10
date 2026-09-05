@@ -61,7 +61,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SouzaJ10&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph-henna-mu.vercel.app/graph?username=SouzaJ10&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"
     alt="GitHub Activity Graph"
     width="100%"
   />
