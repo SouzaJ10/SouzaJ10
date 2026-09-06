@@ -117,13 +117,23 @@
 
 ---
 
-## 🐍 Minhas Contribuições
+## 👾 Pacman Contributions
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/SouzaJ10/SouzaJ10/gh-pages/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SouzaJ10/SouzaJ10/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SouzaJ10/SouzaJ10/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/SouzaJ10/SouzaJ10/output/pacman-contribution-graph.svg"
+    />
+  </picture>
 </p>
 
 ---
