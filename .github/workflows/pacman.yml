@@ -24,8 +24,15 @@ jobs:
             --platform github \
             --username SouzaJ10 \
             --game pacman \
-            --gameTheme github-dark \
+            --gameTheme github \
             --output dist/pacman-contribution-graph.svg
+
+          npx pacman-contribution-graph \
+            --platform github \
+            --username SouzaJ10 \
+            --game pacman \
+            --gameTheme github-dark \
+            --output dist/pacman-contribution-graph-dark.svg
 
       - name: Push Pacman to output branch
         uses: crazy-max/ghaction-github-pages@v5
