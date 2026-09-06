@@ -131,7 +131,7 @@
     />
     <img
       alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/SouzaJ10/SouzaJ10/output/pacman-contribution-graph.svg"
+      src="https://raw.githubusercontent.com/SouzaJ10/SouzaJ10/output/pacman-contribution-graph-dark.svg"
     />
   </picture>
 </p>
