@@ -3,7 +3,6 @@ name: Generate Pacman
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -14,10 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pacman contribution graph
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: SouzaJ10
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman
+        run: |
+          mkdir -p dist
+
+          npx pacman-contribution-graph \
+            --platform github \
+            --username SouzaJ10 \
+            --output dist/pacman-contribution-graph.svg
 
       - name: Push Pacman to output branch
         uses: crazy-max/ghaction-github-pages@v5
